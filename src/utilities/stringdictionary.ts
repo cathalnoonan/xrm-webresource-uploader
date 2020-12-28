@@ -1,0 +1,1 @@
+export type StringDictionary = { [id: string]: string }
